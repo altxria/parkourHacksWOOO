@@ -97,7 +97,7 @@ function UI.Init()
     Combo_Tab:AddSlider({
         Name = "Combo Level",
         Min = 1,
-        Max = 10,
+        Max = 100,
         Default = 1,
         Color = Color3.fromRGB(255,255,255),
         Increment = 1,
